@@ -87,7 +87,7 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
+              <h3>GD / VD</h3>
               <h4>Building Interactive UIs</h4>
               <p>
                 Crafting performant, responsive interfaces with modern frameworks.
