@@ -146,6 +146,7 @@ const WhatIDo = () => {
               <div className="what-arrow"></div>
             </div>
           </div>
+          
         </div>
       </div>
     </div>
