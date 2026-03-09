@@ -87,8 +87,8 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>GD / VD</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>GD / VE</h3>
+              <h4>Graphic Design & Video Editing</h4>
               <p>
                 Crafting performant, responsive interfaces with modern frameworks.
                 From SPAs to micro-frontends, I deliver pixel-perfect experiences.
