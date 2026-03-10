@@ -15,10 +15,10 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Sr. Presentation Specialist</h4>
+                <h5>Analytic Edge</h5>
               </div>
-              <h3>2020</h3>
+              <h3>Now</h3>
             </div>
             <p>
               Built 6+ complete applications using React.js. Integrated backend

@@ -6,9 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I once dreamed of being a rockstar, but discovered my passion for graphic design after creating an album cover for my band. I’ve helped launch 600+ clients across industries, building strong creative experience. Alongside design, I’m a dance enthusiast and part-time instructor. I specialize in social media design, logos, portraits, video editing, and photography.
-
-        </p>
+I’m a creative professional with experience in presentation design, graphic design,
+and video editing. Currently working as a Senior Presentation Specialist, I have a
+strong eye for visual storytelling and brand consistency. I’m passionate about
+design, continuously learning, and exploring new creative ideas, including UI/UX
+through personal projects to expand my skills. 🎨        </p>
       </div>
     </div>
   );
