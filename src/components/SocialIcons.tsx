@@ -1,8 +1,8 @@
 import {
-  FaGithub,
-  FaInstagram,
   FaLinkedinIn,
-  FaXTwitter,
+  FaYoutube,
+  FaBehance,
+  FaVideo
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -60,27 +60,33 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/rajeshchityal" target="_blank">
-            <FaGithub />
-          </a>
-        </span>
-        <span>
-          <a href="https://www.linkedin.com/in/rajeshchityal" target="_blank">
+          <a href="https://www.linkedin.com/in/k-deepak-2a9369145/" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
         <span>
-          <a href="https://x.com/rajeshchityal" target="_blank">
-            <FaXTwitter />
+          <a href="https://drive.google.com/drive/folders/1jRc320Y19HHLaAGndWPy2_oBeiVQcqB9" target="_blank">
+            <FaVideo/>
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com/rajeshchityal" target="_blank">
-            <FaInstagram />
+          <a href="https://www.youtube.com/@deepudancecrew2378" target="_blank">
+            <FaYoutube />
+          </a>
+        </span>
+        <span>
+          <a href="https://www.behance.net/gallery/218028501/PORTFOLIO" target="_blank">
+            <FaBehance />
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#">
+      <a
+        className="resume-button"
+        href="/draco/Resume/K DEEPAK_RESUME.pdf"
+        download="K DEEPAK_RESUME.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />

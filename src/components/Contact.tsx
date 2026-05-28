@@ -14,18 +14,18 @@ const Contact = () => {
                 designerdeepu369@gmail.com
               </a>
             </p>
-            <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <h4>Call</h4>
+            <p>+91 9742424506</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/raxx21"
+              href="https://www.behance.net/gallery/218028501/PORTFOLIO"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              Behance <MdArrowOutward />
             </a>
             <a
               href="https://www.linkedin.com/in/k-deepak-2a9369145/"
@@ -35,26 +35,11 @@ const Contact = () => {
             >
               Linkedin <MdArrowOutward />
             </a>
-            <a
-              href="https://x.com/raxx21_official"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/therajeshchityal"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
-            </a>
+      
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+            
             </h2>
             <h5>
               <MdCopyright /> 2025

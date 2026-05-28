@@ -5,33 +5,33 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
+    title: "Graphic Design",
+    category: "Logo, Branding, Packaging, Broucher, Social Media",
+    tools: "Photoshop, Illustrator, InDesign, Canva",
     image: "/images/Solidx.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    title: "Video Editing",
+    category: "Composition, CG, Motion Graphics, Logo Intros",
+    tools: "Premiere Pro, After Effects, Davinci Resolve",
     image: "/images/radix.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
+    title: "Branding",
+    category: "Corporate Branding, Logo Design, Typography",
+    tools: "Photoshop, Illustrator, InDesign",
+    image: "/images/radix.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
+    title: "Data Visualization (PPT)",
+    category: "Templates, Infographics, Charts, Graphs, Formatting",
+    tools: "Powerpoint, Illustrator, Photoshop",
     image: "/images/sapphire.png",
   },
   {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
+    title: "UI & UX Design",
+    category: "User Research, User Interface, Wireframing, Prototyping,",
+    tools: "Figma",
     image: "/images/Maxlife.png",
   },
 ];
@@ -66,7 +66,7 @@ const Work = () => {
     <div className="work-section" id="work">
       <div className="work-container section-container">
         <h2>
-          My <span>Work</span>
+          My <span>Skills</span>
         </h2>
 
         <div className="carousel-wrapper">

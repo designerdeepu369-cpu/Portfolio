@@ -87,7 +87,7 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>GD / VE</h3>
+              <h3>GD / VE / PPT</h3>
               <h4>Graphic Design & Video Editing</h4>
               <p>
                 Graphic designer and video editor skilled in logos, social media
