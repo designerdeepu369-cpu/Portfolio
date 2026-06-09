@@ -8,31 +8,31 @@ const projects = [
     title: "Graphic Design",
     category: "Logo, Branding, Packaging, Broucher, Social Media",
     tools: "Photoshop, Illustrator, InDesign, Canva",
-    image: "/images/Solidx.png",
+    image: "/images/001.png",
   },
   {
     title: "Video Editing",
     category: "Composition, CG, Motion Graphics, Logo Intros",
     tools: "Premiere Pro, After Effects, Davinci Resolve",
-    image: "/images/radix.png",
+    image: "/images/002.png",
   },
   {
     title: "Branding",
     category: "Corporate Branding, Logo Design, Typography",
     tools: "Photoshop, Illustrator, InDesign",
-    image: "/images/radix.png",
+    image: "/images/003.png",
   },
   {
     title: "Data Visualization (PPT)",
     category: "Templates, Infographics, Charts, Graphs, Formatting",
     tools: "Powerpoint, Illustrator, Photoshop",
-    image: "/images/sapphire.png",
+    image: "/images/004.png",
   },
   {
     title: "UI & UX Design",
     category: "User Research, User Interface, Wireframing, Prototyping,",
     tools: "Figma",
-    image: "/images/Maxlife.png",
+    image: "/images/005.png",
   },
 ];
 
